@@ -1,14 +1,29 @@
+<h2 align="center">Reach me on <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohamed-fawzy-936b661b8/" target="_blank" rel="noreferrer" style="display: inline-block; margin: 0 10px;"> 
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:fwzymohamed90@gmail.com" target="_blank" rel="noreferrer" style="display: inline-block; margin: 0 10px;"> 
+    <img src="https://img.shields.io/badge/email-gmail-red?style=flat-square&logo=gmail" alt="Gmail"> 
+  </a>
+  <a href="https://www.facebook.com/mohamed.fwzy.14" target="_blank" rel="noreferrer" style="display: inline-block; margin: 0 10px;"> 
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"> 
+  </a>
+</p>
+
+
+<p align="center">
+<h2 align="center">Technology Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
+<p align="center">
+<img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"/>
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=IntelliJ-IDEA&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
+</p>
+
 # Project Idea 🎩
 This project is a Spring Boot application that demonstrates CRUD (Create, Read, Update, Delete) operations using a PostgreSQL database. The application is designed with best practices for a professional 
 and maintainable codebase, including proper configuration, validation, and exception handling.
-
-# Reach/Follow me on <br> 📫
-<p align="left">
-  <a href="https://www.linkedin.com/in/mohamed-fawzy-936b661b8/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/2x/linkedin.png" alt="linkedIn" width="50" height="50"/> </a>&nbsp&nbsp
-  <a href="mailto:fwzymohamed90@gmail.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/2x/google-logo.png" alt="googleEmail" width="50" height="50"/> </a>&nbsp&nbsp
-  <a href="https://www.facebook.com/mohamed.fwzy.14" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/facebook-262-721949.png" alt="facebook" width="50" height="50"/> </a>
-</p>
-<br>
 
 # Features 🚀
 - CRUD operations: Create, Read, Update, and Delete operations on a Person entity.
