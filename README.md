@@ -28,7 +28,7 @@ and maintainable codebase, including proper configuration, validation, and excep
 # Features 🚀
 - CRUD operations: Create, Read, Update, and Delete operations on a Person entity.
 - PostgreSQL integration: Uses PostgreSQL as the database.
-- Validation: Validates input data using @Valid and @NotBlank annotations.
+- Validation: Validates input data using `@Valid`, `@NonNull` and `@NotBlank` annotations.
 - Exception Handling: Global exception handling for clean error responses.
 
 # Prerequisites 📚
